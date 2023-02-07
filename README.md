@@ -2,8 +2,8 @@
 
 - 🏠 Moro no Rio de janeiro/RJ maré.
 - 🤔 tenho 19 anos.
-- 👨🏼‍💻 atualmente estou cursando o bootcamp da generation fullstack JavaScript.
-- 💬 estou me aprofundando em back-end.
+- 👨🏼‍💻 Conclui bootcamp da generation fullstack JavaScript.
+- 💬 estou me aprofundando em Front-end.
 - 📫 Email de contato: igor02b1@gmail.com.
 - 😄 Pronomes: ele/dele.
 - 🕹 Fun fact: Amo jogar jogos de enigmas e resolver puzzles.
