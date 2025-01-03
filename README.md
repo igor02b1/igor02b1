@@ -1,9 +1,9 @@
 ### Olá, eu sou o Igor 👾
 
 - 🏠 Moro no Rio de janeiro/RJ maré.
-- 🤔 tenho 19 anos.
+- 🤔 tenho 21 anos.
 - 👨🏼‍💻 Conclui bootcamp da generation fullstack JavaScript.
-- 💬 estou me aprofundando em Front-end.
+- 💬 estou me aprofundando em Back-end.
 - 📫 Email de contato: igor02b1@gmail.com.
 - 😄 Pronomes: ele/dele.
 - 🕹 Fun fact: Amo jogar jogos de enigmas e resolver puzzles.
